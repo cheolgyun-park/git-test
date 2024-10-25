@@ -1,2 +1,2 @@
 # git-test
-# A repository for git command test
+A repo. for git-test
